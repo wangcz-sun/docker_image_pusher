@@ -1,2 +1,2 @@
 #支持私库
---platform=linux/arm64   registry.k8s.io/sig-storage/csi-snapshotter:v6.3.0
+--platform=linux/arm64   registry.k8s.io/sig-storage/snapshot-controller:v6.3.0
